@@ -1,0 +1,11 @@
+.fuente {
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    font-weight: 600;
+}
+
+.fuente2 {
+    font-size: 20px;
+    font-style: italic;
+    font-weight: 800;
